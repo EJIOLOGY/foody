@@ -9,8 +9,5 @@ Ingredient Management: Keep track of your pantry items and generate shopping lis
 Community Interaction: Share your own recipes, rate others, and connect with fellow food lovers.
 Cooking Tips & Tricks: Access a wealth of knowledge to improve your cooking skills.
 # Tech Stack
-Frontend: React, Redux, Tailwind CSS
-Backend: Node.js, Express
-Database: MongoDB
-Authentication: JWT, OAuth
-Hosting: AWS, Heroku
+Frontend: React, Tailwind CSS HTML5 Javascript
+Backend: Nill
